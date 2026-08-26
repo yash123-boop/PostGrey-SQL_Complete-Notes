@@ -1,4 +1,4 @@
-# PostgreSQL & SQL Complete Notes
+# PostgreSQL & MICRO SQL Complete Notes
 
 A practical collection of **SQL and PostgreSQL notes, queries, examples, and assignments** created while learning and practicing relational database concepts.
 
